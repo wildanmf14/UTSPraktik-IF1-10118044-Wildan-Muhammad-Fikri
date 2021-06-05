@@ -1,4 +1,4 @@
-package com.wildhevire.utspraktik_iif_10118044_wildanmuhammadfikri;
+package com.wildhevire.utspraktik_if1_10118044_wildan_muhammad_fikri;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.wildhevire.utspraktik_iif_10118044_wildanmuhammadfikri", appContext.getPackageName());
+        assertEquals("com.wildhevire.utspraktik_if1_10118044_wildan_muhammad_fikri", appContext.getPackageName());
     }
 }

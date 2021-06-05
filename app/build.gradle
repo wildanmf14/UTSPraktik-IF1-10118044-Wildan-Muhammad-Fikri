@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.wildhevire.utspraktik_iif_10118044_wildanmuhammadfikri"
+        applicationId "com.wildhevire.utspraktik_if1_10118044_wildan_muhammad_fikri"
         minSdkVersion 28
         targetSdkVersion 30
         versionCode 1

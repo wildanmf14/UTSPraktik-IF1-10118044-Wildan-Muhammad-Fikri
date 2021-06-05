@@ -1,4 +1,4 @@
-package com.wildhevire.utspraktik_iif_10118044_wildanmuhammadfikri;
+package com.wildhevire.utspraktik_if1_10118044_wildan_muhammad_fikri;
 
 import org.junit.Test;
 
